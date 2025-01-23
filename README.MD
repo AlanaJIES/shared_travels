@@ -37,4 +37,4 @@ description: breve descripción de las condiciones meteorológicas, por ejemplo,
 
 ## Ejecución
 ```bash
-jupyter notebook proyecto_6.ipynb
+jupyter notebook proyecto_7.ipynb
